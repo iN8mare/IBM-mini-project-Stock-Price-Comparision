@@ -1,5 +1,4 @@
 # Python-project-for-IBM-Data-Science-course
 Hi there!
-I created this project on Google Colab as i am unable to open an account on IBM Watson Studio.
-I have followed all the instructions given in the notebook and completed at my own.
-Requesting peers of the course to grade the notebook fairly, thanks!
+I have used ticker module of yfinance library to extract Tesla and GameStop's stock data and used BeautifulSoup to scrape their revenue data.
+Then i used text formatting to get rid of unnecessary text and finally plotted their grphs using plotly.
